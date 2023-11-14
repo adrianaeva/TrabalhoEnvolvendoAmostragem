@@ -1,0 +1,2 @@
+# TrabalhoEnvolvendoAmostragem
+ Amostragem estatística
